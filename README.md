@@ -49,4 +49,4 @@ Outside Function call (function())
 - Allocations
 ---
 
-Resources:- [bigocheatsheet.com](https://www.bigocheatsheet.com/)
+Resources:- <a href="https://www.bigocheatsheet.com" target="_blank">bigocheatsheet.com</a>
